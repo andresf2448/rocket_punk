@@ -1,5 +1,5 @@
 # rocket_punk
-rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.
+Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.
 
 In order to sign the operations (transactions) it is necessary to have the wallet linked to our provider.
 <br>
