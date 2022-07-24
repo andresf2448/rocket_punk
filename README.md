@@ -9,6 +9,10 @@ In order to sign the operations (transactions) it is necessary to have the walle
 In the platform users can:
 
 * View list of its rocket avatars.
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/58791994/180669637-f0ede643-2a12-46a4-b8e7-bd708cd7f88e.png" alt="Home" width="40%"/>
+</div>
+
 * View features of a specific rocket punk.
 * Generate your rocket avatar.
 * Transfer your rocket avatar to another user.
