@@ -6,7 +6,7 @@ In order to sign the operations (transactions) it is necessary to have the walle
 <div>
 <img align="center" src="https://user-images.githubusercontent.com/58791994/180669195-b8b55101-400b-4f8a-9d15-620f8165b0c8.png" alt="Home" width="40%"/>
 </div>
-<br><br>
+<br>
 In the platform users can:
 <br>
 * View list of its rocket avatars.
