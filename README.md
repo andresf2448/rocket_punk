@@ -1,13 +1,15 @@
 # rocket_punk
-A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol. 
+rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.
 
 In order to sign the operations (transactions) it is necessary to have the wallet linked to our provider.
 
 In the platform users can:
-* Apply to become a candidate, entering their photo and required information.
-* Vote for a candidate.
-* Consult the number of votes for a candidate.
-* See the winner of the votes.
+
+* View list of its rocket avatars
+* View features of a specific rocket punk
+* Generate your rocket avatar
+* Transfer your rocket avatar to another user
+
 <br>
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/58791994/179667171-a4c4ff49-5025-43ba-9123-eebd097dae8a.png" alt="Principal" width="40%"/>
