@@ -10,28 +10,41 @@ In order to sign the operations (transactions) it is necessary to have the walle
 In the platform users can:
 <br>
 <br>
+
+******
+
 View list of its rocket avatars.
+
 <br>
-<div>
-<img align="center" src="https://user-images.githubusercontent.com/58791994/180669637-f0ede643-2a12-46a4-b8e7-bd708cd7f88e.png" alt="Home" width="40%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58791994/180669637-f0ede643-2a12-46a4-b8e7-bd708cd7f88e.png" alt="Home" width="40%"/>
 </div>
 <br><br>
+
+******
+
 View features of a specific rocket punk.
 <br>
-<div>
-<img align="center" src="https://user-images.githubusercontent.com/58791994/180669699-13075aa0-ce44-48dd-9f4b-000f928b1f26.png" alt="Home" width="40%"/>
+<div  align="center">
+<img src="https://user-images.githubusercontent.com/58791994/180669699-13075aa0-ce44-48dd-9f4b-000f928b1f26.png" alt="Home" width="40%"/>
 </div>
 <br><br>
+
+******
+
 Generate your rocket avatar.
 <br>
-<div>
-<img align="center" src="https://user-images.githubusercontent.com/58791994/180669836-6e2af32f-be02-44df-a9e7-f1f94bce6c8d.png" alt="Home" width="40%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58791994/180669836-6e2af32f-be02-44df-a9e7-f1f94bce6c8d.png" alt="Home" width="40%"/>
 </div>
 <br><br>
+
+******
+
 Transfer your rocket avatar to another user.
 <br>
-<div>
-<img align="center" src="https://user-images.githubusercontent.com/58791994/180669946-c8327eba-f411-4c2d-8b03-8265a1a2e38e.png" alt="Home" width="40%"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58791994/180669946-c8327eba-f411-4c2d-8b03-8265a1a2e38e.png" alt="Home" width="40%"/>
 </div>
 <br>
 <br>
