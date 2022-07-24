@@ -14,8 +14,19 @@ In the platform users can:
 </div>
 
 * View features of a specific rocket punk.
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/58791994/180669699-13075aa0-ce44-48dd-9f4b-000f928b1f26.png" alt="Home" width="40%"/>
+</div>
+
 * Generate your rocket avatar.
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/58791994/180669836-6e2af32f-be02-44df-a9e7-f1f94bce6c8d.png" alt="Home" width="40%"/>
+</div>
+
 * Transfer your rocket avatar to another user.
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/58791994/180669946-c8327eba-f411-4c2d-8b03-8265a1a2e38e.png" alt="Home" width="40%"/>
+</div>
 
 <br>
 <div>
